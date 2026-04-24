@@ -1,2 +1,3 @@
-# servers.txt
-OE Fast and Safe VPN Servers
+Almanya_Sunucu
+Hollanda_Premium
+Ev_Sunucusu
