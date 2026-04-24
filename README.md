@@ -1,3 +1,1 @@
-Almanya_Sunucu
-Hollanda_Premium
-Ev_Sunucusu
+OE Fast and Safe VPN
